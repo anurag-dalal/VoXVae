@@ -1,0 +1,5 @@
+Average L1 Loss: 0.0065
+Average Accuracy: 0.9935
+Average Precision: 0.3234
+Average Recall: 0.9746
+Average IoU: 0.3207
